@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dbd:home|Door43 (dbd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dbd|d43-dbd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dbd/archive/master.zip|d43-dbd.zip]]
+
+**Recent Changes**
+{{changes>ns = dbd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dbd|Ethnologue data]]
+
